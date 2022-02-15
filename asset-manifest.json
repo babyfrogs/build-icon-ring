@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a798bd96.chunk.css",
+    "main.js": "/static/js/main.b0927e4b.chunk.js",
+    "main.js.map": "/static/js/main.b0927e4b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b191b1c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b191b1c.js.map",
+    "static/js/2.d5ef63cb.chunk.js": "/static/js/2.d5ef63cb.chunk.js",
+    "static/js/2.d5ef63cb.chunk.js.map": "/static/js/2.d5ef63cb.chunk.js.map",
+    "static/js/3.327eeada.chunk.js": "/static/js/3.327eeada.chunk.js",
+    "static/js/3.327eeada.chunk.js.map": "/static/js/3.327eeada.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a798bd96.chunk.css.map": "/static/css/main.a798bd96.chunk.css.map",
+    "static/js/2.d5ef63cb.chunk.js.LICENSE.txt": "/static/js/2.d5ef63cb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/zebra.e90f6d35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b191b1c.js",
+    "static/js/2.d5ef63cb.chunk.js",
+    "static/css/main.a798bd96.chunk.css",
+    "static/js/main.b0927e4b.chunk.js"
+  ]
+}
